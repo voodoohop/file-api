@@ -10,7 +10,7 @@
   "author": "AJ ONeal <coolaj86@gmail.com>",
   "contributors": [],
   "dependencies": {
-    "File": "kevinkid/File#patch-1",
+    "File": "voodoohop/File",
     "FileList": "^0.10.2",
     "bufferjs": "^2.0.0",
     "file-error": "^0.10.2",
